@@ -7375,6 +7375,7 @@ IMG.foto-perfil{
   bottom: 0;
   width: 100%;
   z-index: 2;
+  background-image: url("images/painel-01.png");
 }
 
 #fh5co-header,
