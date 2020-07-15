@@ -7366,7 +7366,7 @@ IMG.foto-perfil{
   position: relative;
   z-index: 1;
   background-attachment: fixed;
- 
+
 }
 #fh5co-header .fh5co-overlay {
   position: absolute;
@@ -7483,6 +7483,13 @@ IMG.foto-perfil{
   background-attachment: fixed;
   position: relative;
   padding: 2em 0;
+}
+.fh5co-section-seperator2{
+ background-color: transparent;
+  background-size: cover;
+  background-attachment: fixed;
+  position: relative;
+  padding: 1em 0; 
 }
 @media screen and (max-width: 992px) {
   .fh5co-section-seperator {
@@ -7757,4 +7764,7 @@ IMG.foto-perfil{
   opacity: 0;
 }
 
+.font-footer {
+  font-color: #000000;
+}
 /*# sourceMappingURL=style.css.map */
