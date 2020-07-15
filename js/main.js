@@ -97,9 +97,9 @@
 		$('.js-fh5co-accordion-toggle').click(function(event){
 			var $this = $(this);
 			if ( $this.closest('.fh5co-accordion').find('.fh5co-accordion-body').is(':visible') ) {
-				$this.text('Show More');
+				$this.text('Ver Mais');
 			} else {
-				$this.text('Show Less');
+				$this.text('Ver Menos');
 			}
 			$this.closest('.fh5co-accordion').find('.fh5co-accordion-body').slideToggle(400, 'easeInOutExpo');
 			event.preventDefault();
