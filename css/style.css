@@ -7356,7 +7356,7 @@ p {
   background: #f9f6f0;
 }
 
-#foto-perfil{
+IMG.foto-perfil{
   display: block;
   margin-left: auto;
   margin-right: auto 
