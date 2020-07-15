@@ -7375,7 +7375,11 @@ IMG.foto-perfil{
   bottom: 0;
   width: 100%;
   z-index: 2;
+<<<<<<< HEAD
   background-image: url("images/painel-01.png");
+=======
+  background: #596e79;
+>>>>>>> parent of 0287999... painel
 }
 
 #fh5co-header,
