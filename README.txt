@@ -1,6 +1,6 @@
 
 TITLE: 
-Slant - Responsive Free HTML5 template
+Gabriel Barreto - Porftolio
 
 AUTHOR:
 DESIGNED & DEVELOPED by FREEHTML5.co
