@@ -7505,9 +7505,10 @@ IMG.foto-perfil{
   background: rgba(0, 0, 0, 0.4);
 }
 .fh5co-section-seperator, .fh5co-section-seperator .fh5co-section-content-wrap {
-  height: 500px;
+  height: 550px;
   width: 100%;
 }
+
 @media screen and (max-width: 992px) {
   .fh5co-section-seperator, .fh5co-section-seperator .fh5co-section-content-wrap {
     height: inherit;
@@ -7765,6 +7766,6 @@ IMG.foto-perfil{
 }
 
 .font-footer {
-  font-color: #000000;
+  color: #000000;
 }
 /*# sourceMappingURL=style.css.map */
