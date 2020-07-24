@@ -7708,7 +7708,7 @@ IMG.foto-perfil{
   margin: 0;
   padding: 1.5em .5em;
 }
-.fh5co-accordion .fh5co-accordion-head .branco> h3 {
+.fh5co-accordion .fh5co-accordion-head > h3 {
   font-size: 18px;
   font-family: "Playfair Display", times, serif;
   font-style: italic;
