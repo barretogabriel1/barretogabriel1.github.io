@@ -1,8 +1,10 @@
 
 TITLE: 
-Gabriel Barreto - Porftolio
+Gabriel Barreto
 
-AUTHOR:
+
+Adaptado por Gabriel Barreto.
+
 DESIGNED & DEVELOPED by FREEHTML5.co
 http://freehtml5.co/
 http://twitter.com/fh5co
