@@ -7700,19 +7700,11 @@ IMG.foto-perfil{
   font-size: 12px;
 }
 
-.fh5co-accordion .fh5co-accordion-head .preto> h3 {
-  font-size: 18px;
-  font-family: "Playfair Display", times, serif;
-  font-style: italic;
-  color: #000;
-  margin: 0;
-  padding: 1.5em .5em;
-}
 .fh5co-accordion .fh5co-accordion-head > h3 {
   font-size: 18px;
   font-family: "Playfair Display", times, serif;
   font-style: italic;
-  color: #f9f6f7;
+  color: #393e46;
   margin: 0;
   padding: 1.5em .5em;
 }
