@@ -7704,11 +7704,14 @@ IMG.foto-perfil{
   font-size: 18px;
   font-family: "Playfair Display", times, serif;
   font-style: italic;
-  color: #f9f6f7;
   margin: 0;
   padding: 1.5em .5em;
 }
-.preto > h3 {
+h3 .branco {
+  color: #f9f6f7;
+}
+
+h3 .preto {
   color: #000;
 }
 .fh5co-accordion .fh5co-accordion-head > h3 i {
