@@ -7700,21 +7700,19 @@ IMG.foto-perfil{
   font-size: 12px;
 }
 
-.fh5co-accordion .fh5co-accordion-head > h3 {
-  font-size: 18px;
-  font-family: "Playfair Display", times, serif;
-  font-style: italic;
-  margin: 0;
-  padding: 1.5em .5em;
-}
-h3 .branco {
-  color: #f9f6f7;
-}
 .fh5co-accordion .fh5co-accordion-head > h3 .preto{
   font-size: 18px;
   font-family: "Playfair Display", times, serif;
   font-style: italic;
   color: #000;
+  margin: 0;
+  padding: 1.5em .5em;
+}
+.fh5co-accordion .fh5co-accordion-head > h3 .branco{
+  font-size: 18px;
+  font-family: "Playfair Display", times, serif;
+  font-style: italic;
+  color: #f9f6f7;
   margin: 0;
   padding: 1.5em .5em;
 }
