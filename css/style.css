@@ -7699,14 +7699,7 @@ IMG.foto-perfil{
   font-weight: 700;
   font-size: 12px;
 }
-.fh5co-accordion .fh5co-accordion-head .academica> h3 {
-  font-size: 18px;
-  font-family: "Playfair Display", times, serif;
-  font-style: italic;
-  color: #f9f6f7;
-  margin: 0;
-  padding: 1.5em .5em;
-}
+
 .fh5co-accordion .fh5co-accordion-head > h3 {
   font-size: 18px;
   font-family: "Playfair Display", times, serif;
@@ -7715,7 +7708,9 @@ IMG.foto-perfil{
   margin: 0;
   padding: 1.5em .5em;
 }
-
+.preto > h3 {
+  color: #000;
+}
 .fh5co-accordion .fh5co-accordion-head > h3 i {
   padding-right: .5em;
   color: #a1b0c5;
